@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sources/correct.wav</file>
+        <file>sources/incorrect.wav</file>
+        <file>sources/backspace.wav</file>
+        <file>sources/victory.wav</file>
+    </qresource>
+</RCC>
